@@ -1,0 +1,4 @@
+{
+  "cap_append_digit": "PLACEHOLDER - see note",
+  "note": "The RuleEngine already implements chaining programmatically; this file can override defaults."
+}
